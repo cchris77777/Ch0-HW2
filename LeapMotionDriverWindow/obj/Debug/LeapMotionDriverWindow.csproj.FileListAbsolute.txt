@@ -1,0 +1,2 @@
+C:\Users\USER\Desktop\smartCar\LeapMotionDriverWindow\bin\Debug\LeapMotionDriverWindow.exe.config
+C:\Users\USER\Desktop\Homework2\LeapMotionDriverWindow\bin\Debug\LeapMotionDriverWindow.exe.config
